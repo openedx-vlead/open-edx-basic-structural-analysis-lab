@@ -1,0 +1,14 @@
+<course advertised_start="Anytime" display_name="Basic Structural Analysis Lab" instructor_info="{&quot;instructors&quot;: []}" learning_info="[]">
+  <chapter url_name="Introduction"/>
+  <chapter url_name="_Single_Span_Beams_Experiment"/>
+  <chapter url_name="Continuous_Beams_Experiment"/>
+  <chapter url_name="Column_Analysis_Experiment"/>
+  <chapter url_name="_Portal_Frames_Experiment"/>
+  <chapter url_name="Plates_Experiment"/>
+  <chapter url_name="Rijid_Joints_Experiment"/>
+  <chapter url_name="_Arches_Experiment"/>
+  <chapter url_name="Trusses_Experiment"/>
+  <chapter url_name="Retaining_Walls_Experiment"/>
+  <chapter url_name="Plastic_Hinge_Experiment"/>
+  <wiki slug="IIITHyd.bsa.Anytime"/>
+</course>
