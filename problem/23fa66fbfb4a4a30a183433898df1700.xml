@@ -1,26 +1,17 @@
 <problem display_name="Multiple Choice" markdown="Multiple choice&#10;&gt;&gt;Q1. Lateral earth pressure is the pressure that soil exerts in the horizontal plane.&lt;&lt;&#10;()True&#10;()False&#9;&#10;&#10;Q2. What is a retaining wall?&#10;&#10;Q3. What is lateral pressure?&#10;&#10;Q4. Discuss Rankines theory.&#10;&#10;Q5. Discuss briefly Coulombs theory.&#10;&#10;Q6. What are the different types of wall structures that can be designed to resist earth pressure?&#10;&#10;Q7. Discuss briefly Coulombs theory.&#10;&#10;Q8. Discuss briefly Coulombs theory.&#10;&#10;&#10;&#10;">
-<p>Multiple choice</p>
-<p>Q1. Lateral earth pressure is the pressure that soil exerts in the horizontal plane.</p>
-<multiplechoiceresponse>
-  <choicegroup label="Q1. Lateral earth pressure is the pressure that soil exerts in the horizontal plane." type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q2. What is a retaining wall?</p>
-
-<p>Q3. What is lateral pressure?</p>
-
-<p>Q4. Discuss Rankines theory.</p>
-
-<p>Q5. Discuss briefly Coulombs theory.</p>
-
-<p>Q6. What are the different types of wall structures that can be designed to resist earth pressure?</p>
-
-<p>Q7. Discuss briefly Coulombs theory.</p>
-
-<p>Q8. Discuss briefly Coulombs theory.</p>
-
-
+  <p>Multiple choice</p>
+  <p>Q1. Lateral earth pressure is the pressure that soil exerts in the horizontal plane.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Q1. Lateral earth pressure is the pressure that soil exerts in the horizontal plane." type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q2. What is a retaining wall?</p>
+  <p>Q3. What is lateral pressure?</p>
+  <p>Q4. Discuss Rankines theory.</p>
+  <p>Q5. Discuss briefly Coulombs theory.</p>
+  <p>Q6. What are the different types of wall structures that can be designed to resist earth pressure?</p>
+  <p>Q7. Discuss briefly Coulombs theory.</p>
+  <p>Q8. Discuss briefly Coulombs theory.</p>
 </problem>
