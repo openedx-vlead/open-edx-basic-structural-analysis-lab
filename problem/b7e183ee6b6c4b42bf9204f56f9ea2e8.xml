@@ -1,29 +1,24 @@
 <problem display_name="Multiple Choice" markdown="&#9;&#10;&#10;Q1. What is a portal frame?&#10;&#10;Q2. Give the examples where portal frames are used.&#10;&#10;Q3. What is the degree of freedom for a portal frame with fixed support?&#10;&#10;Q4. What are the types of connections in building frames?&#10;&#10;&gt;&gt;Q5. Portal frames can be pinned, hinged or may also be as fixed.&lt;&lt;&#10;()True&#10;()False&#10;&#10;Q6. The maximum bending moment is at the middle when u.d.l is applied for a fixed portal frame.&#10;()True&#10;()False&#10;&#10;&lt;p&gt;&lt;a target=&quot;_blank&quot; href=&quot;http://bsa-iiith.virtual-labs.ac.in/exp5/Exp-5%20Portal%20frames.pdf&quot;&gt;Read More&lt;/a&gt;&lt;/p&gt;">
-<p>	</p>
-
-<p>Q1. What is a portal frame?</p>
-
-<p>Q2. Give the examples where portal frames are used.</p>
-
-<p>Q3. What is the degree of freedom for a portal frame with fixed support?</p>
-
-<p>Q4. What are the types of connections in building frames?</p>
-
-<p>Q5. Portal frames can be pinned, hinged or may also be as fixed.</p>
-<multiplechoiceresponse>
-  <choicegroup label="Q5. Portal frames can be pinned, hinged or may also be as fixed." type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p>Q6. The maximum bending moment is at the middle when u.d.l is applied for a fixed portal frame.</p>
-<multiplechoiceresponse>
-  <choicegroup type="MultipleChoice">
-    <choice correct="false">True</choice>
-    <choice correct="false">False</choice>
-  </choicegroup>
-</multiplechoiceresponse>
-
-<p><a target="_blank" href="http://bsa-iiith.virtual-labs.ac.in/exp5/Exp-5%20Portal%20frames.pdf">Read More</a></p>
+  <p>	</p>
+  <p>Q1. What is a portal frame?</p>
+  <p>Q2. Give the examples where portal frames are used.</p>
+  <p>Q3. What is the degree of freedom for a portal frame with fixed support?</p>
+  <p>Q4. What are the types of connections in building frames?</p>
+  <p>Q5. Portal frames can be pinned, hinged or may also be as fixed.</p>
+  <multiplechoiceresponse>
+    <choicegroup label="Q5. Portal frames can be pinned, hinged or may also be as fixed." type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>Q6. The maximum bending moment is at the middle when u.d.l is applied for a fixed portal frame.</p>
+  <multiplechoiceresponse>
+    <choicegroup type="MultipleChoice">
+      <choice correct="false">True</choice>
+      <choice correct="false">False</choice>
+    </choicegroup>
+  </multiplechoiceresponse>
+  <p>
+    <a target="_blank" href="http://bsa-iiith.virtual-labs.ac.in/exp5/Exp-5%20Portal%20frames.pdf">Read More</a>
+  </p>
 </problem>
