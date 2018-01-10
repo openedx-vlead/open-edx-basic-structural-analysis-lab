@@ -3,21 +3,21 @@
         "contentType": "image/png", 
         "content_son": {
             "category": "asset", 
-            "course": "EERC04", 
+            "course": "civil24", 
             "name": "icons_Structural_Analysis.png", 
-            "org": "IIIT-Hyderabad", 
+            "org": "Virtual-Labs", 
             "revision": null, 
             "run": "Anytime", 
             "tag": "c4x"
         }, 
         "displayname": "icons_Structural Analysis.png", 
-        "filename": "asset-v1:IIIT-Hyderabad+EERC04+Anytime+type@asset+block@icons_Structural_Analysis.png", 
+        "filename": "asset-v1:Virtual-Labs+civil24+Anytime+type@asset+block@icons_Structural_Analysis.png", 
         "import_path": "icons_Structural Analysis.png", 
         "locked": false, 
         "thumbnail_location": [
             "c4x", 
-            "IIIT-Hyderabad", 
-            "EERC04", 
+            "Virtual-Labs", 
+            "civil24", 
             "thumbnail", 
             "icons_Structural_Analysis-png.jpg", 
             null
